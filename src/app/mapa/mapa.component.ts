@@ -9,7 +9,7 @@ export class MapaComponent implements AfterViewInit {
 
   title = 'angular-gmap';
 
-  @ViewChild('mapContainer', {static: false}) gmap: ElementRef;
+  @ViewChild('mapContainer') gmap: ElementRef;
   map: google.maps.Map;
 
   lat = -0.225799;
