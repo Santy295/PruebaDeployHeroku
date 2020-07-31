@@ -27,8 +27,8 @@
     "@angular/platform-browser": "~10.0.7",
     "@angular/platform-browser-dynamic": "~10.0.7",
     "@angular/router": "~10.0.7",
-    "@fortawesome/fontawesome-free": "^5.13.1",
-    "@types/googlemaps": "^3.39.7",
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "@types/googlemaps": "^3.39.11",
     "angular7-csv": "^0.2.12",
     "bootstrap": "^3.4.1",
     "chart.js": "^2.9.3",
@@ -43,7 +43,7 @@
     "zone.js": "~0.10.3"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.803.27",
+    "@angular-devkit/build-angular": "^0.1001.0-next.2",
     "@angular/cli": "^10.0.4",
     "@angular/language-service": "~10.0.7",
     "@types/jasmine": "~3.3.8",

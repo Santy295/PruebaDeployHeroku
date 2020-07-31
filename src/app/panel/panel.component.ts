@@ -14,6 +14,7 @@ import { Interpolation } from '@angular/compiler';
   styleUrls: ['./panel.component.css']
 })
 export class PanelComponent implements OnInit{
+  
 
   Costo=1;
   
